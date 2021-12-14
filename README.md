@@ -1,5 +1,5 @@
 ### Hi, I'm Kenneth 👋
-I'm a software developer in Fort Worth, Texas. I built [vim.so](https://www.vim.so) and now I'm working on my startup [Slip](https://www.slip.so)
+I'm a software developer in Fort Worth, Texas. I built [vim.so](https://www.vim.so) and now I'm working on my startup Pointer.
 
 
 
