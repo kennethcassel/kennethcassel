@@ -1,5 +1,9 @@
 ### Hi, I'm Kenneth 👋
-I'm a software developer in Fort Worth, Texas. I built [vim.so](https://www.vim.so) and now I'm working on my startup Pointer.
+I'm a software developer in Fort Worth, Texas. 
+
+I'm the founder of [Diode](https://www.withdiode.com).
+
+I also built [vim.so](https://www.vim.so)
 
 
 
