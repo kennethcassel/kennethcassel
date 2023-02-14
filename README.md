@@ -1,7 +1,7 @@
 ### Hi, I'm Kenneth 👋
 I'm a software developer in Fort Worth, Texas. 
 
-I'm the founder of [Diode](https://www.withdiode.com).
+Currently pivoting my YC backed company (YCS21)
 
 I also built [vim.so](https://www.vim.so)
 
