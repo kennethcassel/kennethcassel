@@ -1,6 +1,6 @@
 ### Hi, I'm Kenneth 👋
 
-Founder @ Reason Robotics
+Founder @ [Reason Robotics](https://www.reasonrobotics.ai)
 
 I write about [Hard Startups](https://www.hardstartups.com)
 
