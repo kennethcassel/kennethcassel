@@ -1,9 +1,10 @@
 ### Hi, I'm Kenneth 👋
-I'm a software developer in Fort Worth, Texas. 
 
-Currently pivoting my YC backed company (YCS21)
+Founder @ Reason Robotics
 
-I also built [vim.so](https://www.vim.so)
+I write about [Hard Startups](https://www.hardstartups.com)
+
+My startup journey began with -> [learnvim.com](https://www.learnvim.com)
 
 
 
