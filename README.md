@@ -1,8 +1,7 @@
 ### Hi, I'm Kenneth 👋
 
-Founder @ [Reason Robotics](https://www.reasonrobotics.ai)
+Building a robotic manufacturing company.
 
-I write about [Hard Startups](https://www.hardstartups.com)
 
 My startup journey began with -> [learnvim.com](https://www.learnvim.com)
 
